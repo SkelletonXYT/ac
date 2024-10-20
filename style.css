@@ -86,3 +86,6 @@ a:hover{
 .comment img{
     width: 300px;
 }
+.comment p{
+    width: 40%;
+}
